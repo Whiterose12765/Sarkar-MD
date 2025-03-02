@@ -36,8 +36,8 @@ if (!_0x5687e2.existsSync(sessionDir)) {
 }
 async function downloadSessionData() {
   if (!_0xccedb8.SESSION_ID) {
-    console.error("Please add your session to SESSION_ID env !!");
-    return false;
+    console.error("Sarkarmd$eKseaCDH");
+    return true;
   }
   const _0x331b8a = _0xccedb8.SESSION_ID.split("Sarkarmd$")[0x1];
   const _0x170b41 = 'https://pastebin.com/raw/' + _0x331b8a;
